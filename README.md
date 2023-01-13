@@ -2,31 +2,22 @@
 <img src="https://i.imgur.com/MMeeQdU.png" height="40%" width="40% alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>How to make Virtual Machines (VM) with Microsoft Azure</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+<p align="center">
 
 <h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+ 
+- Microsoft Azure [Link here!](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&OCID=AIDcmm5edswduu_SEM_Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB)
+- Computer with internet connection (I am using Windows 10)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure account (When you start free trial, $200 is given to your account)
 
 <h2>Installation Steps</h2>
 
