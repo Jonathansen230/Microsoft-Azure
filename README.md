@@ -3,8 +3,8 @@
 </p>
 
 <h1>How to make Virtual Machines (VM) with Microsoft Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-<p align="center">
+
+<p align="left">
 
 <h2>Environments and Technologies Used</h2>
  
@@ -22,26 +22,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TvlmMme.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So in this section, ... ajifjiajfijwaojpo
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into your Microsoft Azure account, you'll need to make one if you don't already have one. You can start with a free trial and Azure will give you $200 for your first 30 days for starting your account!
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hO1gFK6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you log into your Azure account, your portal should look like this, the search bar at the top will be your best friend when looking for specific services. In our case, we will be typing virtual machines in the search bar on the top (or click the little virtual machine logo under the search bar).
+</p>
+<br />
 </p>
 <br />
                                                                                                  
