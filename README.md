@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/MMeeQdU.png" height="40%" width="40% alt="osTicket logo"/>
 </p>
 
-<h1>How to make Virtual Machines (VM) with Microsoft Azure</h1>
+<h1>Step by Step How to make Virtual Machines (VM) with Microsoft Azure</h1>
 
 <p align="left">
 
@@ -38,5 +38,58 @@ Once you log into your Azure account, your portal should look like this, the sea
 <br />
 </p>
 <br />
+                                                                                                 <p>
+<img src="https://i.imgur.com/VvgIIFy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+0
+</p>
+<br />
+</p>
+<br />
+                                                                                                 <p>
+<img src="https://i.imgur.com/u0C6RaY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    1
+</p>
+<br />
+</p>
+<br />
+                                                                                                 <p>
+<img src="https://i.imgur.com/Kv0xwPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+3
+</p>
+<br />
+</p>
+<br />
+                                                                                                 <p>
+<img src="https://i.imgur.com/1kKpkZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4
+</p>
+<br />
+</p>
+<br />
+                                                                                                 <p>
+<img src="https://i.imgur.com/MBX7FUS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5
+</p>
+<br />
+</p>
+<br />
                                                                                                  
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6
+</p>
+<br />
+</p>
+<br />                                                                                                 
 <h2>The Fun Part: Accessing Your Newly Created VM!</h2>                                                                                                 
