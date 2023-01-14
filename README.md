@@ -95,64 +95,64 @@ Once you log into your Azure account, your portal should look like this, the sea
                                                                                                  
 <h2>The Fun Part: Accessing Your Newly Created VM!</h2>                                                                                                 
 
-<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3U3RNqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+5
 </p>
 <br />
 </p>
 <br />
                                                                                                  
- <img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/hhZbAY6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+6
 </p>
 <br />
 </p>
 <br /> 
                                                                                                   
-<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z4cG6aT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+7
 </p>
 <br />
 </p>
 <br />
                                                                                                  
-<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jkzk3BW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+8
 </p>
 <br />
 </p>
 <br />
                                                                                                  
-<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bq1iEwl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+9
 </p>
 <br />
 </p>
 <br />
                                                                                                  
-<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RrDkc2J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+10
 </p>
 <br />
 </p>
 <br />
                                                                                                  
-<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vsgEYWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+11
 </p>
 <br />
 </p>
