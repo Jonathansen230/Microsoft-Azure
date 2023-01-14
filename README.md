@@ -91,5 +91,69 @@ Once you log into your Azure account, your portal should look like this, the sea
 </p>
 <br />
 </p>
-<br />                                                                                                 
+<br />
+                                                                                                 
 <h2>The Fun Part: Accessing Your Newly Created VM!</h2>                                                                                                 
+
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br />
+                                                                                                 
+ <img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br /> 
+                                                                                                  
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br />
+                                                                                                 
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br />
+                                                                                                 
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br />
+                                                                                                 
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br />
+                                                                                                 
+<img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.5
+</p>
+<br />
+</p>
+<br />                                                                                                 
