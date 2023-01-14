@@ -17,15 +17,15 @@
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure account (When you start free trial, $200 is given to your account)
+- Microsoft Azure account (When you start free trial, $200 is given to your account for first 30 days)
 
-<h2>Installation Steps</h2>
+<h2>Creating the Virtual Machine</h2>
 
 <p>
 <img src="https://i.imgur.com/TvlmMme.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log into your Microsoft Azure account, you'll need to make one if you don't already have one. You can start with a free trial and Azure will give you $200 for your first 30 days for starting your account!
+First, log into your Microsoft Azure account, you'll need to make one if you don't already have one. You can start with a free trial and Azure will give you $200 for your first 30 days for starting your account!
 </p>
 <br />
 
@@ -60,7 +60,7 @@ Once you log into your Azure account, your portal should look like this, the sea
 <img src="https://i.imgur.com/Kv0xwPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3
+2
 </p>
 <br />
 </p>
@@ -69,7 +69,7 @@ Once you log into your Azure account, your portal should look like this, the sea
 <img src="https://i.imgur.com/1kKpkZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4
+3
 </p>
 <br />
 </p>
@@ -78,7 +78,7 @@ Once you log into your Azure account, your portal should look like this, the sea
 <img src="https://i.imgur.com/MBX7FUS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5
+4
 </p>
 <br />
 </p>
@@ -87,7 +87,7 @@ Once you log into your Azure account, your portal should look like this, the sea
 <img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6
+4.5
 </p>
 <br />
 </p>
