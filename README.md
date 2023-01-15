@@ -60,7 +60,7 @@ Once you click on Virtual Machines, you have the option to create one. Click the
 <img src="https://i.imgur.com/Kv0xwPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As you scroll down, you will name your Azure Virtual Machine (I am naming mine ExampleVM). You can choose your region, and operating system (for this example, I chose Windows 10 Pro, version 21H2 - x64 Gen2). After you choose your operating system, you can select the specs based off of your needs, the stronger your system, the more Azure will charge you. After that, you will be making your log in information into the Virtual Machine (My username for this example is ExampleVM1). Be sure to remember this username and password!
+As you scroll down, you will name your Azure Virtual Machine (I am naming mine ExampleVM). You can choose your region, and operating system (for this example, I chose Windows 10 Pro, version 21H2 - x64 Gen2). After you choose your operating system, you can select the specs based off of your needs, the stronger your system, the more Azure will charge you. After that, you will be making your log in information into the Virtual Machine (My username for this example is ExampleVM1). Be sure to remember your username and password!
 </p>
 <br />
 </p>
@@ -152,7 +152,7 @@ You should see that your Virtual Machine is loading and setting up! Notice your 
 <img src="https://i.imgur.com/vsgEYWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If you have gotten this far, Congratulations! You have successfully created and accessed your Azure Virtual Machine.
+If you have gotten this far, Congratulations! You have successfully created and accessed your Azure Virtual Machine. If you no longer need your Virtual Machine for future use, be sure to delete your Virtual Machine on Azure! Otherwise Microsoft will charge your free 30 day $200 or your card for your VM.
 </p>
 <br />
 </p>
