@@ -8,8 +8,8 @@
 
 <h2>Environments and Technologies Used</h2>
  
-- Microsoft Azure [Link here!](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&OCID=AIDcmm5edswduu_SEM_Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB)
-- Computer with internet connection (I am using Windows 10)
+- Microsoft Azure [(Link here!)](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&OCID=AIDcmm5edswduu_SEM_Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB)
+- Computer (I am using Windows 10) with internet connection
 
 <h2>Operating Systems Used </h2>
 
