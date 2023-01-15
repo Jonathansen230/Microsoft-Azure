@@ -87,7 +87,7 @@ If everything goes well, you should have a green check mark that also says "Vali
 <img src="https://i.imgur.com/WtTEgKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4.5
+Azure will be deploying your VM and it can take a few seconds. Everything should be successful, congrats on making your VM! Click the blue "Go to resource" to see your VM information. 
 </p>
 <br />
 </p>
@@ -98,7 +98,7 @@ If everything goes well, you should have a green check mark that also says "Vali
 <img src="https://i.imgur.com/3U3RNqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5
+Here you should see your VM specs and IP address. We're going to copy our Public IP address that is underlined in red. We're going to use this IP address to access our remote machine.
 </p>
 <br />
 </p>
@@ -107,7 +107,7 @@ If everything goes well, you should have a green check mark that also says "Vali
  <img src="https://i.imgur.com/hhZbAY6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6
+On your computer search bar on the bottom of your screen (I am using windows 10), type "Remote Desktop Connection". Click on it and it will ask for an IP address.
 </p>
 <br />
 </p>
@@ -116,7 +116,7 @@ If everything goes well, you should have a green check mark that also says "Vali
 <img src="https://i.imgur.com/Z4cG6aT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7
+Where it says "Computer:" go ahead and paste your Public IP address that you copied. Click connect after pasting.
 </p>
 <br />
 </p>
@@ -125,16 +125,16 @@ If everything goes well, you should have a green check mark that also says "Vali
 <img src="https://i.imgur.com/Jkzk3BW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8
+Here, Windows will ask for your login credentials. This is where you would input the login information that should be remembered when making your virtual machine on Azure earlier.
 </p>
 <br />
 </p>
 <br />
                                                                                                  
-<img src="https://i.imgur.com/Bq1iEwl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bq1iEwl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9
+Once you see this prompt, that means your login is good to go and you can connect to your VM. Go ahead and click yes.
 </p>
 <br />
 </p>
@@ -143,7 +143,7 @@ If everything goes well, you should have a green check mark that also says "Vali
 <img src="https://i.imgur.com/RrDkc2J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10
+You should see that your Virtual Machine is loading and setting up! Notice your blue public IP address at the top of the screen is how you can tell from your immediate computer from your VM.
 </p>
 <br />
 </p>
@@ -152,7 +152,7 @@ If everything goes well, you should have a green check mark that also says "Vali
 <img src="https://i.imgur.com/vsgEYWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11
+If you have gotten this far, Congratulations! You have successfully created and accessed your Azure Virtual Machine.
 </p>
 <br />
 </p>
