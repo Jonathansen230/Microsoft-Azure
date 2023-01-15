@@ -6,11 +6,13 @@
 
 <p align="left">
 
+<h2>Description</h2> 
+- This step-by-step tutorial will guide you on how to make a Microsoft Azure Virtual Machine and also how to log into your VM.             
 <h2>Environments and Technologies Used</h2>
  
 - Microsoft Azure [(Link here!)](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&OCID=AIDcmm5edswduu_SEM_Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB:G:s&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HB9MnWM-wkQ-x0TEKP1HAlYk6pLXTlzUqVNw3nCU_BGULPeqXXjQKQaAlAZEALw_wcB)
 - Computer (I am using Windows 10) with internet connection
-
+- Remote Desktop Connection App (Windows 10 already comes with this app)
 <h2>Operating Systems Used </h2>
 
 - Windows 10
